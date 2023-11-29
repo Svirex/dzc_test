@@ -1,29 +1,49 @@
 # main links
 main:
+  - title: Главная
+    url: /
   - title: "О нас"
     url: /about
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Подарочный сертификат"
+    url: /gifts/
+  - title: "Форма обратной связи"
+    url: /feedback/
 left:
-  - title: "О нас"
+  - title: "Главная"
     url: /
-  - title: "Курсы начального обучения"
+  - title: "О нас"
+    url: /about
+  - title: "Курсы"
     children: 
-        - title: Курс Open Water Diver (OWD)
-          url: /owd
-        - title: Курс Adnvanced Open Water Diver (OWD)
-          url: /aowd
         - title: Discover Scuba Diver (DSD)
           url: /dsd
-  - title: "Специализации"
+        - title: Курс Open Water Diver (OWD)
+          url: /owd
+        - title: Курс PADI Advanced Open Water Diver
+          url: /aowd
+        - title: Курс PADI Rescue Diver
+          url: /rescue
+        - title: Курс Divemaster 
+          url: /divemaster
+        - title: Курс EFR Primary and Secondary Care
+          url: /efr
+  - title: "Спецкурсы"
     children: 
         - title: Курс Peak Performance Buoyancy (PPB)
           url: /specializations/ppb
         - title: Курс Enriched Air Diver (EAD)
           url: /specializations/ead
+        - title: Dry Suit Diver
+          url: /specializations/drysuit
+        - title: Sidemount Diver
+          url: /specializations/sidemount
+        - title: Ice Diver
+          url: /specializations/ice
+        - title: Deep Diver
+          url: /specializations/deep
+        - title: Night Diver
+          url: /specializations/night
+  - title: "Подарочный сертификат"
+    url: /gifts/
+  - title: "Форма обратной связи"
+    url: /feedback/
