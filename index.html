@@ -1,4 +1,45 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "Хочу погружаться!"
+      url: "/form/"
+read_time: false
+excerpt: >
+  Клуб дайвинга
+feature_row:
+  - image_path: /assets/img/dsd.jpg
+    alt: "Discover Scuba Diving"
+    title: "Discover Scuba Diving"
+    excerpt: "Попробуйте"
+    url: "/dsd/"
+    btn_class: "btn--primary"
+    btn_label: "DSD"  
+  - image_path: /assets/img/owd.jpg
+    alt: "owd"
+    title: "Open Water Diver (OWD)"
+    excerpt: "Откройте для себя мир дайвинга"
+    url: "/owd/"
+    btn_class: "btn--primary"
+    btn_label: "OWD"
+  - image_path: /assets/img/aowd.jpg
+    alt: "aowd"
+    title: "Advanced Open Water Diver (AOWD)"
+    excerpt: "Продолжайте путешествие в мир дайвинга"
+    url: "/aowd/"
+    btn_class: "btn--primary"
+    btn_label: "AOWD"
+  - image_path: /assets/img/owd.jpg
+    alt: "specialisaction"
+    title: "Специализации"
+    excerpt: "Получайте новые навыки и расширяйте границы"
+    url: "/specializations/"
+    btn_class: "btn--primary"
+    btn_label: "К специализациям"      
 ---
+
+{% include feature_row %}
