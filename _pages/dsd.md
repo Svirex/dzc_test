@@ -1,7 +1,7 @@
 ---
 title: Discover Scuba Diving / Пробное погружение с аквалангом
 layout: single
-permalink: /dsd/
+permalink: /dsd
 ---
 
 Программа Discover Scuba Diving / Пробное погружение – создана для того, чтобы дать Вам представление о дайвинге. 

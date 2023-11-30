@@ -33,11 +33,25 @@ feature_row:
     url: "/aowd/"
     btn_class: "btn--primary"
     btn_label: "К курсу"
+  - image_path: /assets/img/aowd.jpg
+    alt: "reactivate"
+    title: "Re-Activate"
+    excerpt: "Программа Re-Activate поможет вам освежить в памяти забытую информацию и восстановить ваши базовые навыки"
+    url: "/reactivate/"
+    btn_class: "btn--primary"
+    btn_label: "К курсу"
   - title: "Курс PADI Rescue Diver / дайвер-спасатель"
     # alt: "aowd"
     # image_path: /assets/img/aowd.jpg
     excerpt: "Один из основных принципов курса Rescue Diver гласит «не может быть единственно верного пути для оказания помощи». Вы научитесь вариативности и гибкости в разрешении экстренных ситуаций."
     url: "/rescue/"
+    btn_class: "btn--primary"
+    btn_label: "К курсу"
+  - title: "Курс Divemaster / Дайвмастер"
+    # alt: "aowd"
+    # image_path: /assets/img/aowd.jpg
+    excerpt: "Готовы ли вы стать профессионалом в любимом деле? Если ДА, тогда дерзайте - сделайте первый шаг к вашей мечте!"
+    url: "/divemaster/"
     btn_class: "btn--primary"
     btn_label: "К курсу"
   - image_path: /assets/img/owd.jpg

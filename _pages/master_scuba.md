@@ -1,5 +1,5 @@
 ---
 title: Master Scuba Diver
 layout: single
-permalink: /master-scuba/
+permalink: /master-scuba
 ---

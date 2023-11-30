@@ -21,6 +21,8 @@ left:
           url: /owd
         - title: Курс PADI Advanced Open Water Diver
           url: /aowd
+        - title: Re-Activate
+          url: /reactivate
         - title: Курс PADI Rescue Diver
           url: /rescue
         - title: Курс Divemaster 
@@ -43,6 +45,8 @@ left:
           url: /specializations/deep
         - title: Night Diver
           url: /specializations/night
+        - title: Gas Blender (Nitrox)
+          url: /specializations/gas-blender
   - title: "Подарочный сертификат"
     url: /gifts/
   - title: "Форма обратной связи"

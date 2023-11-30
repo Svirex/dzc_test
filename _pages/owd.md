@@ -1,7 +1,7 @@
 ---
 title: Курс PADI Open Water Diver / дайвер открытой воды
 layout: single
-permalink: /owd/
+permalink: /owd
 ---
 
 Курс Open Water Diver – Ваш пропуск в подводный мир!

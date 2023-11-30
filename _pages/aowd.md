@@ -1,7 +1,7 @@
 ---
-title: Курс PADI Advanced Open Water Diver / продвинутый дайвер открытой воды.
+title: Курс PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
 layout: single
-permalink: /aowd/
+permalink: /aowd
 ---
 
 Становясь дайвером уровня Advanced Open Water Diver  вы получаете ещё больше знаний и навыков, знакомитесь с новыми для вас видами дайвинга, плюс расширяете собственные возможности и пределы погружений!

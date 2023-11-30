@@ -1,5 +1,5 @@
 ---
-title: Sidemount Diver/погружения в боковой конфигурации
+title: Sidemount Diver / погружения в боковой конфигурации
 layout: single
 ---
 

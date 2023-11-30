@@ -1,7 +1,7 @@
 ---
 title: Подарочный сертификат
 layout: single
-permalink: /gifts/
+permalink: /gifts
 ---
 
 Подарочный сертификат

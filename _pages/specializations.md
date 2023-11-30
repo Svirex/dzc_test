@@ -1,6 +1,6 @@
 ---
 title: Специализации
-permalink: /specializations/    
+permalink: /specializations 
 entries_layout: grid
 classes: wide
 layout: collection

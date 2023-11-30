@@ -1,7 +1,7 @@
 ---
 title: О нас
 layout: single
-permalink: /about/
+permalink: /about
 collection: courses
 # entries_layout: grid
 # classes: wide
