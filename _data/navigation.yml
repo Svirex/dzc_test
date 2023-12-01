@@ -5,9 +5,9 @@ main:
   - title: "О нас"
     url: /about
   - title: "Подарочный сертификат"
-    url: /gifts/
+    url: /gifts
   - title: "Форма обратной связи"
-    url: /feedback/
+    url: /feedback
 left:
   - title: "Главная"
     url: /
@@ -48,6 +48,6 @@ left:
         - title: Gas Blender (Nitrox)
           url: /specializations/gas-blender
   - title: "Подарочный сертификат"
-    url: /gifts/
+    url: /gifts
   - title: "Форма обратной связи"
-    url: /feedback/
+    url: /feedback
