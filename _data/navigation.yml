@@ -6,6 +6,8 @@ main:
     url: /dive-center
   - title: "Обучение"
     url: /education
+  - title: "Локации погружений"
+    url: /diving-location
   - title: "Услуги"
     url: /services
   - title: "Словарь"
@@ -17,6 +19,15 @@ left:
     url: /dive-center
   - title: "Обучение"
     url: /education
+  - title: "Локации погружений"
+    url: /diving-location
+    children: 
+      - title: "Местный дайвинг"
+        url: /local-diving
+      - title: "Погружения по России"
+        url: /diving-in-russia
+      - title: "Заграничные поездки"
+        url: /trip-abroad
   - title: "Услуги"
     url: /services
   - title: "Словарь"
@@ -40,9 +51,8 @@ left:
         - title: Курс Project AWARE
           url: /aware
   - title: "Спецкурсы"
+    url: /specializations
     children: 
-        - title: Все спецкурсы
-          url: /specializations
         - title: Курс Peak Performance Buoyancy (PPB)
           url: /specializations/ppb
         - title: Курс Enriched Air Diver (EAD)
