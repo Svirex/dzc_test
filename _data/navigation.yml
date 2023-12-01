@@ -2,17 +2,25 @@
 main:
   - title: Главная
     url: /
-  - title: "О нас"
-    url: /about
-  - title: "Подарочный сертификат"
-    url: /gifts
-  - title: "Форма обратной связи"
-    url: /feedback
+  - title: "Дайв-центр"
+    url: /dive-center
+  - title: "Обучение"
+    url: /education
+  - title: "Услуги"
+    url: /services
+  - title: "Словарь"
+    url: /dictionary
 left:
-  - title: "Главная"
+  - title: Главная
     url: /
-  - title: "О нас"
-    url: /about
+  - title: "Дайв-центр"
+    url: /dive-center
+  - title: "Обучение"
+    url: /education
+  - title: "Услуги"
+    url: /services
+  - title: "Словарь"
+    url: /dictionary
   - title: "Курсы"
     children: 
         - title: Discover Scuba Diver (DSD)
@@ -29,8 +37,12 @@ left:
           url: /divemaster
         - title: Курс EFR Primary and Secondary Care
           url: /efr
+        - title: Курс Project AWARE
+          url: /aware
   - title: "Спецкурсы"
     children: 
+        - title: Все спецкурсы
+          url: /specializations
         - title: Курс Peak Performance Buoyancy (PPB)
           url: /specializations/ppb
         - title: Курс Enriched Air Diver (EAD)
@@ -47,6 +59,8 @@ left:
           url: /specializations/night
         - title: Gas Blender (Nitrox)
           url: /specializations/gas-blender
+        - title: Dive Against Debris
+          url: /specializations/against-debris
   - title: "Подарочный сертификат"
     url: /gifts
   - title: "Форма обратной связи"
