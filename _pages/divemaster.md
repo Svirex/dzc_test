@@ -1,5 +1,5 @@
 ---
-title: Курс Divemaster / Дайвмастер
+title: Курс PADI Divemaster / Дайвмастер
 layout: single
 permalink: /divemaster
 ---

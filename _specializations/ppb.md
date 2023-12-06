@@ -1,5 +1,5 @@
 ---
-title: Курс Peak Performance Buoyancy
+title: Курс Peak Performance Buoyancy / мастерское управление плавучестью
 layout: single
 permalink: /specializations/ppb
 ---
@@ -21,4 +21,4 @@ permalink: /specializations/ppb
     * учебные материалы 
     * Сертификат PADI Peak Performance Buoyancy
 
-Записаться на Курс Peak Performance Buoyancy или приобрести Подарочный сертификат на прохождение данного курса и получить доступ к электронным учебным материалам e-Learning можно прямо сейчас заполнив [форму обратной связи](/feedback/).
+Записаться на Курс Peak Performance Buoyancy и получить доступ к электронным учебным материалам e-Learning можно прямо сейчас заполнив [форму обратной связи](/feedback/).
