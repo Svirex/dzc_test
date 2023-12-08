@@ -15,64 +15,87 @@ left:
     url: /
   - title: "Дайв-центр"
     url: /dive-center
-  - title: "Обучение"
-    url: /education
-  - title: "Локации погружений"
+  - title: Начинающим
+    children:
+      - title: Discover Scuba Diving / Пробное погружение с аквалангом
+        url: /dsd
+      - title: PADI Open Water Diver / дайвер открытой воды
+        url: /owd
+      - title: Skin Diver
+        url: /skin
+  - title: Дайвинг для детей (8-10 лет)
+    url: /kids-diving
+  - title: Продолжающим
+    children:
+      - title: PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
+        url: /aowd
+      - title: PADI Rescue Diver / дайвер-спасатель
+        url: /rescue
+  - title: Курсы первой помощи / Emergency First Response 
+    url: /efr
+  - title: Стань профессионалом
+    children:    
+      - title: PADI Divemaster / Дайвмастер
+        url: /divemaster 
+      - title: DSD Leader
+        url: /dsd-leader
+      - title: Assistant Instructor PADI / Ассистент инструктора
+        url: /assistant-instructor
+      - title: Emergency First Response Instructor 
+        url: /efr-instructor
+  - title: Специализации
+    url: /specializations
+    children:
+      - title: Project AWARE
+        url: /specializations/aware
+      - title: Coral Reef Conservation / сохранение коралловых рифов
+        url: /specializations/aware-coral
+      - title: Deep Diver / глубокие погружения
+        url: /specializations/deep        
+      - title: Delayed Surface Marker Buoy
+        url: /specializations/dsmb   
+      - title: Dive Against Debris / дайверы против мусора
+        url: /specializations/against-debris   
+      - title: Dry Suit Diver / погружения в сухом гидрокостюме
+        url: /specializations/drysuit  
+      - title: Enriched Air Diver / погружения на обогащённом воздухе
+        url: /specializations/ead                        
+      - title: Equipment Specialist / специалист по снаряжению
+        url: /specializations/equipment-specialist    
+      - title: Gas Blender (Nitrox)
+        url: /specializations/gas-blender   
+      - title: Ice Diver / подлёдные погружения
+        url: /specializations/ice  
+      - title: Night Diver / ночные погружения
+        url: /specializations/night  
+      - title: Peak Performance Buoyancy / мастерское управление плавучестью
+        url: /specializations/ppb                                     
+      - title: Search & Recovery Diver / поиск и подъём затонувших предметов
+        url: /specializations/search-recovery     
+      - title: Sidemount Diver / погружения в боковой конфигурации
+        url: /specializations/sidemount   
+      - title: Wreck Diver / погружения на затонувшие объекты
+        url: /specializations/wreck                                            
+  - title: "Локации"
     url: /diving-location
     children: 
-      - title: "Местный дайвинг"
+      - title: "Наши адреса"
+        url: /addresses
+      - title: "Локальный дайвинг"
         url: /local-diving
-      - title: "Погружения по России"
-        url: /diving-in-russia
-      - title: "Заграничные поездки"
-        url: /trip-abroad
+      - title: "Путешествуй и ныряй"
+        url: /diving-in-trips
   - title: "Услуги"
     url: /services
   - title: "Словарь"
     url: /dictionary
+    children: 
+      - title: "Алфавитный указатель"
+        url: /alphabetical-index
   - title: "Курсы"
     children: 
-        - title: Дайвинг для детей (8-10 лет)
-          url: /kids-diving
-        - title: Discover Scuba Diving / Пробное погружение с аквалангом
-          url: /dsd
-        - title: PADI Open Water Diver / дайвер открытой воды
-          url: /owd
-        - title: PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
-          url: /aowd
         - title: Re-Activate / вспомнить всё
           url: /reactivate
-        - title: PADI Rescue Diver / дайвер-спасатель
-          url: /rescue
-        - title: PADI Divemaster / Дайвмастер
-          url: /divemaster
-        - title: Курсы первой помощи / Emergency First Response 
-          url: /efr
-        - title: Project AWARE
-          url: /aware
-  - title: "Спецкурсы"
-    url: /specializations
-    children: 
-        - title: Peak Performance Buoyancy / мастерское управление плавучестью
-          url: /specializations/ppb
-        - title: Dry Suit Diver / погружения в сухом гидрокостюме
-          url: /specializations/drysuit
-        - title: Sidemount Diver / погружения в боковой конфигурации
-          url: /specializations/sidemount
-        - title: Ice Diver / подлёдные погружения
-          url: /specializations/ice
-        - title: Deep Diver / глубокие погружения
-          url: /specializations/deep
-        - title: Night Diver / ночные погружения
-          url: /specializations/night
-        - title: Gas Blender (Nitrox)
-          url: /specializations/gas-blender
-        - title: Enriched Air Diver / погружения на обогащённом воздухе
-          url: /specializations/ead
-        - title: Dive Against Debris / дайверы против мусора
-          url: /specializations/against-debris
-        - title: Wreck Diver / погружения на затонувшие объекты
-          url: /specializations/wreck
   - title: "Подарочный сертификат"
     url: /gifts
   - title: "Форма обратной связи"
