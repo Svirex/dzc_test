@@ -25,6 +25,12 @@ left:
         url: /skin
   - title: Дайвинг для детей (8-10 лет)
     url: /kids-diving
+  - title: Восстановление навыков и дополнительные тренировки
+    children:
+      - title: Re-Activate / вспомнить всё
+        url: /reactivate
+      - title: Новые возможности Discover new diving
+        url: /discover-new-diving
   - title: Продолжающим
     children:
       - title: PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
@@ -94,10 +100,6 @@ left:
     children: 
       - title: "Алфавитный указатель"
         url: /alphabetical-index
-  - title: "Курсы"
-    children: 
-        - title: Re-Activate / вспомнить всё
-          url: /reactivate
   - title: "Подарочный сертификат"
     url: /gifts
   - title: "Форма обратной связи"
