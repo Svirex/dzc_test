@@ -31,6 +31,8 @@ left:
         url: /aowd
       - title: PADI Rescue Diver / дайвер-спасатель
         url: /rescue
+      - title: Master Scuba Diver
+        url: /master-scuba
   - title: Курсы первой помощи / Emergency First Response 
     url: /efr
   - title: Стань профессионалом
