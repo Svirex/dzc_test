@@ -21,7 +21,7 @@ left:
         url: /dsd
       - title: PADI Open Water Diver / дайвер открытой воды
         url: /owd
-      - title: Skin Diver
+      - title: Skin Diver / погружения на задержке дыхания
         url: /skin
   - title: Дайвинг для детей (8-10 лет)
     url: /kids-diving
@@ -59,17 +59,23 @@ left:
       - title: Coral Reef Conservation / сохранение коралловых рифов
         url: /specializations/aware-coral
       - title: Deep Diver / глубокие погружения
-        url: /specializations/deep        
+        url: /specializations/deep    
+      - title: Delayed Surface Marker Buoy (DSMB) Diver / погружения с поверхностным маркерным буем
+        url: /specializations/dsmb
       - title: Delayed Surface Marker Buoy
         url: /specializations/dsmb   
       - title: Dive Against Debris / дайверы против мусора
-        url: /specializations/against-debris   
+        url: /specializations/against-debris
+      - title: Drift Diver / погружения в условиях течений 
+        url: /specializations/drift
       - title: Dry Suit Diver / погружения в сухом гидрокостюме
         url: /specializations/drysuit  
       - title: Enriched Air Diver / погружения на обогащённом воздухе
         url: /specializations/ead                        
       - title: Equipment Specialist / специалист по снаряжению
-        url: /specializations/equipment-specialist    
+        url: /specializations/equipment-specialist
+      - title: Full Face Mask / Погружения с полнолицевой маской
+        url: /specializations/full-face-mask  
       - title: Gas Blender (Nitrox)
         url: /specializations/gas-blender   
       - title: Ice Diver / подлёдные погружения
@@ -81,7 +87,9 @@ left:
       - title: Search & Recovery Diver / поиск и подъём затонувших предметов
         url: /specializations/search-recovery     
       - title: Sidemount Diver / погружения в боковой конфигурации
-        url: /specializations/sidemount   
+        url: /specializations/sidemount
+      - title: Underwater Navigator / подводное ориентирование
+        url: /specializations/underwater-navigator
       - title: Wreck Diver / погружения на затонувшие объекты
         url: /specializations/wreck                                            
   - title: "Локации"
