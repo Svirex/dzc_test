@@ -24,13 +24,13 @@ feature_row:
 
 <ul class="image-list-small">
 <li>
-  <a href="/beginners" style="background-image: url('/assets/img/owd.jpg');"></a>
+  <a href="/beginners" style="background-image: url('assets/img/owd.jpg');"></a>
   <div class="details">
     <h3><a href="/beginners">Начинающим</a></h3>
   </div>
 </li>
 <li>
-  <a href="/continuing" style="background-image: url('/assets/img/aowd.jpg');"></a>
+  <a href="/continuing" style="background-image: url('assets/img/aowd.jpg');"></a>
   <div class="details">
     <h3><a href="/continuing">Продолжающим</a></h3>
   </div>
