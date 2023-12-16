@@ -77,6 +77,11 @@ search: false
     list-style: circle inside;
     padding-left: 2px;
 
+    @include breakpoint(max-width $large - 1px) {
+      list-style: none;
+      padding-left: 0px;
+    }
+
     // &::marker {
     //   padding-left: 2px;
     // }

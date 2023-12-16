@@ -71,4 +71,4 @@ feature_row:
     btn_label: "К спецкурсам"      
 ---
 
-{% include feature_row type="left" %}
+<!-- {% include feature_row type="left" %} -->
