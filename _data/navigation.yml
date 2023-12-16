@@ -16,6 +16,7 @@ left:
   - title: "Дайв-центр"
     url: /dive-center
   - title: Начинающим
+    url: /beginners
     children:
       - title: Discover Scuba Diving / Пробное погружение с аквалангом
         url: /dsd
@@ -32,6 +33,7 @@ left:
       - title: Новые возможности Discover new diving
         url: /discover-new-diving
   - title: Продолжающим
+    url: /continuing
     children:
       - title: PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
         url: /aowd
@@ -42,6 +44,7 @@ left:
   - title: Курсы первой помощи / Emergency First Response 
     url: /efr
   - title: Стань профессионалом
+    url: /pro
     children:    
       - title: PADI Divemaster / Дайвмастер
         url: /divemaster 

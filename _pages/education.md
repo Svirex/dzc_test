@@ -1,38 +1,43 @@
 ---
 title: Обучение в Dive Zone Club
 layout: single
+classes: wide
 permalink: /education
-feature_row:
-    - image_path: /assets/img/owd.jpg
-      title: "Начинающим"  
-      url: /beginners
-      btn_label: "К курсам"
-      btn_class: "btn--success"
-    - image_path: /assets/img/aowd.jpg
-      title: "Продолжающим"  
-      url: /continuing
-      btn_label: "К курсам"
-      btn_class: "btn--success"
-    - image_path: /assets/img/aowd.jpg
-      title: "Дайвинг для детей"  
-      url: /kids-diving
-      btn_label: "К курсу"
-      btn_class: "btn--success"
+data:
+    - url: /beginners
+      title: Начинающим
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /kids-diving
+      title: Дайвинг для детей
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /reactivate
+      title: Восстановление навыков
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /discover-new-diving
+      title: Discover new diving
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /continuing
+      title: Продолжающим
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /rescue
+      title: Курсы первой помощи
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /pro
+      title: Стань профессионалом
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /specializations
+      title: Специализации
+      image_path: /assets/img/dive-zone-club-logo.jpg
 ---
-
-{% include feature_row type="left" %}
-
-<ul class="image-list-small">
-<li>
-  <a href="/beginners" style="background-image: url('assets/img/owd.jpg');"></a>
-  <div class="details">
-    <h3><a href="/beginners">Начинающим</a></h3>
-  </div>
-</li>
-<li>
-  <a href="/continuing" style="background-image: url('assets/img/aowd.jpg');"></a>
-  <div class="details">
-    <h3><a href="/continuing">Продолжающим</a></h3>
-  </div>
-</li>
-</ul>
+<div class="flex-container images">
+    {% for d in page.data %}
+        <div class="flex-item">
+            <figure>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ d.url }}">
+                    <img src="{{ site.url }}{{ site.baseurl }}{{ d.image_path }}" />
+                </a>
+                <figcaption><h3><a href="{{ site.url }}{{ site.baseurl }}{{ d.url }}">{{ d.title }}</a></h3></figcaption>
+            </figure>
+        </div>
+    {% endfor %}
+</div>

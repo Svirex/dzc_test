@@ -1,5 +1,5 @@
 ---
-title: Ice Diver / подлёдные погружения
+title: Курс Ice Diver / подлёдные погружения
 layout: single
 permalink: /specializations/ice
 ---
