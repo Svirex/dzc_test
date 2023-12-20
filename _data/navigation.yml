@@ -95,15 +95,15 @@ left:
         url: /specializations/underwater-navigator
       - title: Wreck Diver / погружения на затонувшие объекты
         url: /specializations/wreck                                            
-  - title: "Локации"
+  - title: "Где ныряем"
     url: /diving-location
-    children: 
-      - title: "Наши адреса"
-        url: /addresses
-      - title: "Локальный дайвинг"
-        url: /local-diving
-      - title: "Путешествуй и ныряй"
-        url: /diving-in-trips
+    # children: 
+    #   - title: "Наши адреса"
+    #     url: /addresses
+    #   - title: "Локальный дайвинг"
+    #     url: /local-diving
+    #   - title: "Путешествуй и ныряй"
+    #     url: /diving-in-trips
   - title: "Услуги"
     url: /services
   - title: "Словарь"
