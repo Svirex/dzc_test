@@ -1,6 +1,7 @@
 ---
 title: Где ныряем
 layout: single
+classes: wide
 permalink: /diving-location
 gallery:
     - image_path: assets/img/images/blue/6pBJRpAeTgw.jpg
