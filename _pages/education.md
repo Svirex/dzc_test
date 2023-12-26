@@ -19,7 +19,7 @@ data:
     - url: /continuing
       title: Продолжающим
       image_path: /assets/img/dive-zone-club-logo.jpg
-    - url: /rescue
+    - url: /efr
       title: Курсы первой помощи
       image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /pro
