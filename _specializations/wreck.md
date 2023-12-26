@@ -28,12 +28,12 @@ permalink: /specializations/wreck
 
 После выполнения всех требований вы получите сертификат PADI Wreck Diver.
 
-Успешное выполнение погружения в открытой воде № 1 из состава курса Wreck Diver и выполнение контрольной работы может быть зачтено вам как погружение из серии [Adventure Dive](/adventure-dive) для получения сертификата [Advanced Open Water Diver PADI](/aowd).
+Успешное выполнение погружения в открытой воде № 1 из состава курса Wreck Diver и выполнение контрольной работы может быть зачтено вам как погружение из серии [Adventure Dive](/aowd) для получения сертификата [Advanced Open Water Diver PADI](/aowd).
 
 Получение сертификата PADI Wreck Diver еще на один шаг приближает вас к получению высшего звания в любительского дайвинге - [PADI Master Scuba Diver](/master-scuba).
 
 **Минимальные входные требования**:
-* сертификат [Adventure Diver PADI](/adventure-dive)
+* сертификат [Adventure Diver PADI](/aowd)
 * возраст не менее 15 лет
 
 Для записи на курс заполните [форму обратной связи](/feedback).

@@ -28,7 +28,7 @@ permalink: /specializations/dsmb
 
 После успешного выполнения всех требований данного курса вы получите сертификат **PADI DSMB**.
 
-Погружение из серии DSMB Adventure Dive, проводимое в качестве части курса [PADI Advanced Open Water Diver](/aowd), может засчитываться в качестве первого погружения данного курса. Аналогично, дайверам, успешно выполнившим погружение № 1 курса DSMB Diver и контрольную работу, оно может быть засчитано при сертификации по уровням [PADI Adventure Diver](/adventure-dive) и [PADI Advanced Open Water Diver](/aowd). 
+Погружение из серии DSMB Adventure Dive, проводимое в качестве части курса [PADI Advanced Open Water Diver](/aowd), может засчитываться в качестве первого погружения данного курса. Аналогично, дайверам, успешно выполнившим погружение № 1 курса DSMB Diver и контрольную работу, оно может быть засчитано при сертификации по уровням [PADI Adventure Diver](/aowd) и [PADI Advanced Open Water Diver](/aowd). 
 
 Получение сертификата PADI DSMB будет засчитано вам при сертификации по уровню [PADI Master Scuba Diver](/master-scuba).
 

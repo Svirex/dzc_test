@@ -31,7 +31,7 @@ permalink: /specializations/night
 
 После выполнения всех требований Курса вы получите сертификат PADI Night Diver.
 
-Выполнение погружения № 1 из состава курса Night Diver и выполнение контрольной работы №1 может быть зачтено как одно из погружений [Adventure Diver](/adventure-dive) при прохождении Курса [Advanced Open Water Diver PADI](/aowd).
+Выполнение погружения № 1 из состава курса Night Diver и выполнение контрольной работы №1 может быть зачтено как одно из погружений [Adventure Diver](/aowd) при прохождении Курса [Advanced Open Water Diver PADI](/aowd).
 
 Получение сертификата PADI Night Diver еще на один шаг приближает вас к получению высшего звания в любительского дайвинге - [PADI Master Scuba Diver](/master-scuba).
 

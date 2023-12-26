@@ -23,7 +23,7 @@ permalink: /specializations/full-face-mask
 
 После выполнения всех требований курса вы получите сертификат **PADI Full Face Mask Diver**.
 
-Дайверам, успешно прошедшим все обучение погружениям с полнолицевой маской, оно может быть засчитано в качестве погружения из серии [Adventure Dives](/adventure-dive) при сертификации по уровням PADI Adventure Diver и/или [PADI Advanced Open Water Diver](/aowd). 
+Дайверам, успешно прошедшим все обучение погружениям с полнолицевой маской, оно может быть засчитано в качестве погружения из серии [Adventure Dives](/aowd) при сертификации по уровням PADI Adventure Diver и/или [PADI Advanced Open Water Diver](/aowd). 
 
 Сертификат **PADI Full Face Mask Diver** будет засчитан при сертификации по уровню [PADI Master Scuba Diver](/master-scuba).
 

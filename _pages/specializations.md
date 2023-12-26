@@ -33,6 +33,9 @@ data:
     - url: /specializations/equipment-specialist
       title: Equipment Specialist / специалист по снаряжению
       image_path: /assets/img/equipment-specialist.jpg
+    - url: /specializations/eop
+      title: Emergency Oxygen Provider / аварийная подача кислорода пострадавшему
+      image_path: /assets/img/EOP.jpg
     - url: /specializations/full-face-mask
       title: Full Face Mask / Погружения с полнолицевой маской
       image_path: /assets/img/full-face-mask.png
@@ -60,6 +63,9 @@ data:
     - url: /specializations/underwater-navigator
       title: Underwater Navigator / подводное ориентирование
       image_path: /assets/img/navigation.jpg
+    - url: /specializations/underwater-videographer
+      title: Underwater Videographer / Подводная видеосъемка
+      image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /specializations/wreck
       title: Wreck Diver / погружения на затонувшие объекты
       image_path: /assets/img/wreck.jpg

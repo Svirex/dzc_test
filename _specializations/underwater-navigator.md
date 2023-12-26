@@ -20,14 +20,14 @@ permalink: /specializations/underwater-navigator
 
 Курс Underwater Navigator включает три зачётных погружения на открытой воде, которые могут быть проведены за один день.  
 
-Погружения могут быть проведены ночью, если вы выполнили погружение [Night Adventure Dive](/adventure-dive) или первое погружение из курса [PADI Night Diver](/specializations/night).
+Погружения могут быть проведены ночью, если вы выполнили погружение [Night Adventure Dive](/aowd) или первое погружение из курса [PADI Night Diver](/specializations/night).
 {: .notice--success}
 
 **Сертификация и зачёты**
 
 После успешного выполнения всех требований курса вы получите сертификат **PADI Underwater Navigator**.
 
-Выполнение контрольной работы №1 и погружения в открытой воде №1 данного курса может быть засчитано как погружение [Adventure Dive](/adventure-dive) при прохождении курса [PADI Advanced Open Water Diver](/aowd).
+Выполнение контрольной работы №1 и погружения в открытой воде №1 данного курса может быть засчитано как погружение [Adventure Dive](/aowd) при прохождении курса [PADI Advanced Open Water Diver](/aowd).
 
 Получение сертификата PADI Underwater Navigator еще на один шаг приближает вас к получению высшего звания в любительского дайвинге - [PADI Master Scuba Diver](/master-scuba).
 

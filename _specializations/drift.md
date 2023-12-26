@@ -25,7 +25,7 @@ permalink: /specializations/drift
 
 После успешного выполнения всех требований курса вы получите сертификат **PADI Drift Diver**.
 
-Выполнение контрольной работы №1 и погружения в открытой воде №1 данного курса может быть засчитано как погружение [Adventure Dive](/adventure-dive) при прохождении курса [PADI Advanced Open Water Diver](/aowd).
+Выполнение контрольной работы №1 и погружения в открытой воде №1 данного курса может быть засчитано как погружение [Adventure Dive](/aowd) при прохождении курса [PADI Advanced Open Water Diver](/aowd).
 
 Получение сертификата PADI Drift Diver еще на один шаг приближает вас к получению высшего звания в любительского дайвинге - [PADI Master Scuba Diver](/master-scuba).
 

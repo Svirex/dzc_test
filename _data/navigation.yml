@@ -2,14 +2,16 @@
 main:
   - title: Главная
     url: /
-  - title: "Дайв-центр"
-    url: /dive-center
+  # - title: "Дайв-центр"
+  #   url: /dive-center
   - title: "Обучение"
     url: /education
   - title: "Услуги"
     url: /services
-  - title: "Словарь"
-    url: /dictionary
+  - title: "Где ныряем"
+    url: /diving-location
+  # - title: "Словарь"
+  #   url: /dictionary
 left:
   - title: Главная
     url: /
@@ -61,12 +63,12 @@ left:
         url: /specializations/aware
       - title: Coral Reef Conservation / сохранение коралловых рифов
         url: /specializations/aware-coral
+      - title: Boat Diver / погружения с судна
+        url: /specializations/boat
       - title: Deep Diver / глубокие погружения
         url: /specializations/deep    
       - title: Delayed Surface Marker Buoy (DSMB) Diver / погружения с поверхностным маркерным буем
         url: /specializations/dsmb
-      - title: Delayed Surface Marker Buoy
-        url: /specializations/dsmb   
       - title: Dive Against Debris / дайверы против мусора
         url: /specializations/against-debris
       - title: Drift Diver / погружения в условиях течений 
@@ -77,6 +79,8 @@ left:
         url: /specializations/ead                        
       - title: Equipment Specialist / специалист по снаряжению
         url: /specializations/equipment-specialist
+      - title: Emergency Oxygen Provider / аварийная подача кислорода пострадавшему
+        url: /specializations/eop
       - title: Full Face Mask / Погружения с полнолицевой маской
         url: /specializations/full-face-mask  
       - title: Gas Blender (Nitrox)
@@ -93,6 +97,8 @@ left:
         url: /specializations/sidemount
       - title: Underwater Navigator / подводное ориентирование
         url: /specializations/underwater-navigator
+      - title: Underwater Videographer / Подводная видеосъемка
+        url: /specializations/underwater-videographer
       - title: Wreck Diver / погружения на затонувшие объекты
         url: /specializations/wreck                                            
   - title: "Где ныряем"
@@ -106,12 +112,12 @@ left:
     #     url: /diving-in-trips
   - title: "Услуги"
     url: /services
-  - title: "Словарь"
-    url: /dictionary
-    children: 
-      - title: "Алфавитный указатель"
-        url: /alphabetical-index
-  - title: "Подарочный сертификат"
-    url: /gifts
+  # - title: "Словарь"
+  #   url: /dictionary
+    # children: 
+    #   - title: "Алфавитный указатель"
+    #     url: /alphabetical-index
+  # - title: "Подарочный сертификат"
+  #   url: /gifts
   - title: "Форма обратной связи"
     url: /feedback
