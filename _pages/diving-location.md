@@ -47,8 +47,8 @@ gallery3:
 gallery4:
     - image_path: assets/img/images/red/8PaT5bS9N7c.jpg
       url: assets/img/images/red/8PaT5bS9N7c.jpg
-    - image_path: assets/img/images/red/uPsqV1vopdo.jpg
-      url: assets/img/images/red/uPsqV1vopdo.jpg
+    - image_path: assets/img/images/sarva/lYn3kNwaORA.jpg
+      url: assets/img/images/sarva/lYn3kNwaORA.jpg
     - image_path: assets/img/images/red/xHweZQ2sORQ.jpg
       url: assets/img/images/red/xHweZQ2sORQ.jpg
     - image_path: assets/img/images/red/y3-39GtvcTs.jpg
@@ -61,26 +61,26 @@ gallery4:
       url: assets/img/images/sarva/U-E35A7E0Z8.jpg
     - image_path: assets/img/images/sarva/wnlTTLqvt04.jpg
       url: assets/img/images/sarva/wnlTTLqvt04.jpg
-    - image_path: assets/img/images/sarva/lYn3kNwaORA.jpg
-      url: assets/img/images/sarva/lYn3kNwaORA.jpg
+    - image_path: assets/img/images/red/uPsqV1vopdo.jpg
+      url: assets/img/images/red/uPsqV1vopdo.jpg
 
 gallery5:
     - image_path: assets/img/images/lazurka/47ADW8UgEV4.jpg
       url: assets/img/images/lazurka/47ADW8UgEV4.jpg
+    - image_path: assets/img/images/lazurka/FmB-cz8WGHI.jpg
+      url: assets/img/images/lazurka/FmB-cz8WGHI.jpg
+    - image_path: assets/img/images/lazurka/sWwwZEubO9M.jpg
+      url: assets/img/images/lazurka/sWwwZEubO9M.jpg
     - image_path: assets/img/images/lazurka/938vgGrEUyo.jpg
       url: assets/img/images/lazurka/938vgGrEUyo.jpg
     - image_path: assets/img/images/lazurka/CtFuNyAkpD4.jpg
       url: assets/img/images/lazurka/CtFuNyAkpD4.jpg
-    - image_path: assets/img/images/lazurka/FmB-cz8WGHI.jpg
-      url: assets/img/images/lazurka/FmB-cz8WGHI.jpg
     - image_path: assets/img/images/lazurka/Kuj3ifsRVBw.jpg
       url: assets/img/images/lazurka/Kuj3ifsRVBw.jpg
     - image_path: assets/img/images/lazurka/Nc35lFZnd3s.jpg
       url: assets/img/images/lazurka/Nc35lFZnd3s.jpg
     - image_path: assets/img/images/lazurka/OMDvWtI7Mrs.jpg
       url: assets/img/images/lazurka/OMDvWtI7Mrs.jpg
-    - image_path: assets/img/images/lazurka/sWwwZEubO9M.jpg
-      url: assets/img/images/lazurka/sWwwZEubO9M.jpg
     - image_path: assets/img/images/lazurka/tPjpPgIXhOo.jpg
       url: assets/img/images/lazurka/tPjpPgIXhOo.jpg
 ---
