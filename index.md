@@ -25,7 +25,7 @@ gallery:
   - image_path: assets/img/images/blue/mC6QSonq-a0.jpg
     url: assets/img/images/blue/mC6QSonq-a0.jpg
   - image_path: assets/img/images/jtjQSg-cLjg.jpg
-    url: assets/img/images/boat/jtjQSg-cLjg.jpg
+    url: assets/img/images/jtjQSg-cLjg.jpg
   - image_path: assets/img/images/red/uPsqV1vopdo.jpg
     url: assets/img/images/red/uPsqV1vopdo.jpg
   - image_path: assets/img/images/bd7WsSJgaHY.jpg
