@@ -5,10 +5,10 @@ classes: wide
 data:
     - url: /specializations/aware
       title: Project AWARE
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/aware.jpg
     - url: /specializations/aware-coral
       title: Coral Reef Conservation / сохранение коралловых рифов
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/aware coral.jpg
     - url: /specializations/boat
       title: Boat Diver
       image_path: /assets/img/boat.jpg
@@ -26,7 +26,7 @@ data:
       image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /specializations/drysuit
       title: Dry Suit Diver / погружения в сухом гидрокостюме
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/dry suit.jpg
     - url: /specializations/ead
       title: Enriched Air Diver / погружения на обогащённом воздухе
       image_path: /assets/img/ead.jpg
@@ -65,7 +65,7 @@ data:
       image_path: /assets/img/navigation.jpg
     - url: /specializations/underwater-videographer
       title: Underwater Videographer / Подводная видеосъемка
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/video.jpg
     - url: /specializations/wreck
       title: Wreck Diver / погружения на затонувшие объекты
       image_path: /assets/img/wreck.jpg

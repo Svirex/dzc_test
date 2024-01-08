@@ -6,13 +6,13 @@ permalink: /continuing
 data:
     - url: /aowd
       title: PADI Advanced Open Water Diver / продвинутый дайвер открытой воды
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/aowd.jpg
     - url: /rescue
       title: PADI Rescue Diver / дайвер-спасатель
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/rescue.jpg
     - url: /master-scuba
       title: Master Scuba Diver
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/msd.jpg
 ---
 
 <div class="flex-container images">

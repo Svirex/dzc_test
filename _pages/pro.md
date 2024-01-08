@@ -6,12 +6,15 @@ permalink: /pro
 data:
     - url: /divemaster
       title: PADI Divemaster / Дайвмастер
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/divemaster.jpg
     - url: /dsd-leader
       title: DSD Leader
       image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /assistant-instructor
       title: Assistant Instructor PADI / Ассистент инструктора
+      image_path: /assets/img/dive-zone-club-logo.jpg
+    - url: /efr-instructor
+      title: Emergency First Response Instructor 
       image_path: /assets/img/dive-zone-club-logo.jpg
 ---
 

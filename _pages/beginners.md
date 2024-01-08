@@ -6,10 +6,10 @@ classes: wide
 data:
     - url: /dsd
       title: Discover Scuba Diving / Пробное погружение с аквалангом
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/dsd.jpg
     - url: /owd
       title: Open Water Diver / дайвер открытой воды
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/owd.jpg
     - url: /skin
       title: Skin Diver / погружения на задержке дыхания
       image_path: /assets/img/dive-zone-club-logo.jpg
