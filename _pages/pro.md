@@ -15,7 +15,7 @@ data:
       image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /efr-instructor
       title: Emergency First Response Instructor 
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/EFR Инструктор.jpg
 ---
 
 <div class="flex-container images">

@@ -21,7 +21,7 @@ data:
       image_path: /assets/img/dive-zone-club-logo.jpg
     - url: /efr
       title: Курсы первой помощи
-      image_path: /assets/img/dive-zone-club-logo.jpg
+      image_path: /assets/img/EFR_PS.jpg
     - url: /pro
       title: Стань профессионалом
       image_path: /assets/img/стань про.jpg
