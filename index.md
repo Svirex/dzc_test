@@ -20,14 +20,10 @@ gallery:
     url: assets/img/images/blue/DreI1R6aRa4.jpg
   - image_path: assets/img/images/blue/erf-9qVsOT4.jpg
     url: assets/img/images/blue/erf-9qVsOT4.jpg
-  - image_path: assets/img/images/blue/hhVq0UybleQ.jpg
-    url: assets/img/images/blue/hhVq0UybleQ.jpg
   - image_path: assets/img/images/blue/mC6QSonq-a0.jpg
     url: assets/img/images/blue/mC6QSonq-a0.jpg
   - image_path: assets/img/images/jtjQSg-cLjg.jpg
     url: assets/img/images/jtjQSg-cLjg.jpg
-  - image_path: assets/img/images/red/uPsqV1vopdo.jpg
-    url: assets/img/images/red/uPsqV1vopdo.jpg
   - image_path: assets/img/images/bd7WsSJgaHY.jpg
     url: assets/img/images/bd7WsSJgaHY.jpg
   - image_path: assets/img/images/sarva/wnlTTLqvt04.jpg
@@ -37,8 +33,6 @@ gallery:
 gallery2:
   - image_path: assets/img/images/learning/C6bFpWKd9c.jpg
     url: assets/img/images/learning/C6bFpWKd9c.jpg
-  - image_path: assets/img/images/learning/0uig_D8sNRU.jpg
-    url: assets/img/images/learning/0uig_D8sNRU.jpg
   - image_path: assets/img/images/learning/3p6RHrYLDPU.jpg
     url: assets/img/images/learning/3p6RHrYLDPU.jpg
   - image_path: assets/img/images/learning/aDetGl6BaVA.jpg
@@ -56,7 +50,7 @@ gallery2:
 
 Дайв-центр Dive Zone Club проводит обучение дайвингу в Самаре, а также является сообществом единомышленников и энтузиастов дайвинга. Мы всегда рады и открыты новым людям! 
 
-Дайвинг в Самаре не ограничивается прохождением [начального обучения](/beginners). С нами вы можете продолжить обучение по различным [специализациям](/specializations) и регулярно совершать [дайвинг на выходных и в поездках за пределы области](/diving-location).
+Дайвинг в Самаре не ограничивается прохождением [начального обучения](/beginners). С нами вы можете продолжить обучение по различным [специализациям](/specializations-page) и регулярно совершать [дайвинг на выходных и в поездках за пределы области](/diving-location).
 
 По нашему мнению, лучший дайвинг - тот, которым занимаются регулярно. Поэтому мы погружаемся круглый год. Для нас сезон не заканчивается никогда!
 

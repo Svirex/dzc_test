@@ -57,7 +57,7 @@ left:
       - title: Emergency First Response Instructor 
         url: /efr-instructor
   - title: Специализации
-    url: /specializations
+    url: /specializations-page
     children:
       - title: Project AWARE
         url: /specializations/aware

@@ -25,7 +25,7 @@ data:
     - url: /pro
       title: Стань профессионалом
       image_path: /assets/img/стань про.jpg
-    - url: /specializations
+    - url: /specializations-page
       title: Специализации
       image_path: /assets/img/dive-zone-club-logo.jpg
 ---

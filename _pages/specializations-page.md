@@ -1,6 +1,6 @@
 ---
 title: Спецкурсы
-permalink: /specializations 
+permalink: /specializations-page
 classes: wide
 data:
     - url: /specializations/aware
